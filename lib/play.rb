@@ -42,8 +42,7 @@ def play(board)
     counter += 1
     turn(board)
     if counter >= 10  
-    turn(board)
-    
+      break
   end 
 end 
 
