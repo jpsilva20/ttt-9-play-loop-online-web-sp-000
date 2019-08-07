@@ -44,6 +44,7 @@ def play(board)
     if counter >= 10  
       break
     end 
+  end
 end 
 
   
